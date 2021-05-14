@@ -1,0 +1,18 @@
+Info:2021-03-23 12:30:11 - unittests.pages.logpage - DEBUG - 获取acctoken成功：bearer2650fdb3-3e27-466a-bf25-acb2c8cb868d
+Info:2021-03-23 12:30:11 - unittests.pages.logpage - DEBUG - 获取deptId成功：1304297645084168194
+Info:2021-03-23 12:30:11 - unittests.pages.logpage - DEBUG - 获取roleId成功：1305325435770294273
+Info:2021-03-23 12:30:12 - unittests.pages.logpage - DEBUG - 获取token成功:bearer7d698dd0-96bd-43ec-ad1b-e0eb370a32c6
+Info:2021-03-23 12:30:12 - unittests.pages.logpage - DEBUG - 获取acctoken成功：bearer2650fdb3-3e27-466a-bf25-acb2c8cb868d
+Info:2021-03-23 12:30:13 - unittests.pages.logpage - DEBUG - 病人注册相关字典id:[{'id': '1156457421221564410', 'dictName': '民族', 'dictKey': 'nation', 'parentId': '0'}, {'id': '1156457421221564411', 'dictName': '性别', 'dictKey': 'sex', 'parentId': '0'}, {'id': '1156457421221564412', 'dictName': '婚姻状况', 'dictKey': 'marry', 'parentId': '0'}, {'id': '1156457421221564416', 'dictName': '职业', 'dictKey': 'profession', 'parentId': '0'}, {'id': '1156457421221564409', 'dictName': '家庭关系', 'dictKey': 'family', 'parentId': '0'}, {'id': '1156457421221564413', 'dictName': '国家', 'dictKey': 'country', 'parentId': '0'}, {'id': '1156457421221564414', 'dictName': '学历', 'dictKey': 'education', 'parentId': '0'}, {'id': '1156457421221564415', 'dictName': '生育史', 'dictKey': 'childbearing history', 'parentId': '0'}]
+Info:2021-03-23 12:30:13 - unittests.pages.logpage - DEBUG - 病人性别:男，性别id：1306766386265067522
+Info:2021-03-23 12:30:13 - unittests.pages.logpage - DEBUG - 证据类型:居民户口本，证件id：1305322292860866563
+Info:2021-03-23 12:30:13 - unittests.pages.logpage - DEBUG - 国籍:中国，国籍id：1210030910193373185
+Info:2021-03-23 12:30:13 - unittests.pages.logpage - DEBUG - 民族id：1209781446828462133
+Info:2021-03-23 12:30:14 - unittests.pages.logpage - DEBUG - 婚姻状况未婚id：1209781446828462085
+Info:2021-03-23 12:30:14 - unittests.pages.logpage - DEBUG - 金卡id：1305412828145831938
+Info:2021-03-23 12:30:14 - unittests.pages.logpage - DEBUG - 会员卡卡号：0001021206
+Info:2021-03-23 12:30:15 - unittests.pages.logpage - DEBUG - 病人注册接口返回信息:{'groupPatientId': 'P00010000000429', 'groupPatient': None, 'orgPatientId': 'JG0000100100000433', 'patientCardList': None}
+Info:2021-03-23 12:30:15 - unittests.pages.logpage - DEBUG - 病人身份信息：{'name': '于子俊', 'age': 28, 'sex': '男', 'birthday': '19930513', 'birthday_stamp': 737222400000, 'idnum': '35818117411', 'phone': '18316473810', 'emali': '18316473810@sina.com'}
+Info:2021-03-23 12:30:15 - unittests.pages.logpage - DEBUG - 挂号优惠信息：100元夜间急诊
+Info:2021-03-23 12:30:16 - unittests.pages.logpage - DEBUG - 挂号医生信息:曹建英，挂号科室信息:妇科门诊
+Info:2021-03-23 12:30:18 - unittests.pages.logpage - DEBUG - 挂号记录ID：1374216909554929665
